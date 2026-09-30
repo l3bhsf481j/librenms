@@ -1,0 +1,1 @@
+GERALT cache-version probe trigger file. Non-functional; used to open a same-repo pull_request against master.
